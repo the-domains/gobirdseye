@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-06T12:11:12.328Z'
-dateModified: '2016-05-06T12:10:51.804Z'
+datePublished: '2016-05-06T12:29:01.797Z'
+dateModified: '2016-05-06T12:28:10.349Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-06-get-closer.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-06-get-closer.md
 url: get-closer/index.html
 _type: Article
 
