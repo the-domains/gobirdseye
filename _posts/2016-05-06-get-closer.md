@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-06T12:29:01.797Z'
-dateModified: '2016-05-06T12:28:10.349Z'
+datePublished: '2016-05-06T12:35:13.870Z'
+dateModified: '2016-05-06T12:29:06.054Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-06-get-closer.md
