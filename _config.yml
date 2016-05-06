@@ -1,6 +1,6 @@
 name: GoBirdseye
 favicon: null
-layout_spectrum: 0.6021622340194881
+layout_spectrum: 0
 typography_spectrum: 0.13027675752528012
 title: Photography
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#ffffff'
+    - '#000000'
+    - '#373737'
+    - '#7b7a78'
+    - '#fdccbb'
   brandStrength: 1
   lightness: 1
   saturation: 1
