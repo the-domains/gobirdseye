@@ -1,0 +1,28 @@
+name: GoBirdseye
+favicon: null
+layout_spectrum: 0.6021622340194881
+typography_spectrum: 0.13027675752528012
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8306782545987517
+  lightness: 0.07395452121272683
+  saturation: 0.44051481527276337
+  rhythmicContrast: 0.34320047148503363
+purpose: []
